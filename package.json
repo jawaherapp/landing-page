@@ -8,7 +8,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "rtl": "webpack --config webpack-rtl.config.js"
+    "rtl": "webpack --config webpack-rtl.config.js",
+    "deploy": "ng build --prod --base-href https://jawaherapp.github.io/landing-page/ && angular-cli-ghpages --branch gh-jawaher"
   },
   "private": true,
   "dependencies": {
