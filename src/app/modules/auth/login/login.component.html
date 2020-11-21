@@ -1,0 +1,31 @@
+<!--begin::Signin-->
+<div class="login-form login-signin">
+  <!--begin::Form-->
+  <form
+    class="form"
+    [formGroup]="loginForm"
+    novalidate="novalidate"
+    id="kt_login_signin_form"
+    (ngSubmit)="submit()"
+  >
+    <!--begin::Title-->
+    <div class="pb-13 pt-lg-0 pt-5">
+      <h3 class="font-weight-bolder text-dark font-size-h4 font-size-h1-lg">
+        Welcome to Jawaher
+      </h3>
+      <span class="text-muted font-weight-bold font-size-h4">
+        Download the app now!
+      </span>
+    </div>
+    <!--end::Title-->
+    <div class="row">
+      <div class="col">
+        <a href=""><img src="./assets/media/appstore.png" width="150px"></a>
+      </div>
+      <div class="col">
+        <a href=""><img src="./assets/media/googleplay.svg" width="150px"></a>
+      </div>
+    </div>
+
+  </form>
+</div>
