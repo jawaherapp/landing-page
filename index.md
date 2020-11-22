@@ -1,3 +1,8 @@
+#### *Contact us*
+Whatsapp: +97334354080
+Instagram: jawaherapp
+Twitter: jawaherapp
+
 #### **Privacy Policy**
 
 Welcome to Jawaher Company. This section pertains to the Privacy Policy of the website and native mobile applications. We would like to inform that our privacy policy is subject to change without intimation and you shall be required to review the same regularly.
