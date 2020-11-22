@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+#### **Privacy Policy**
 
-You can use the [editor on GitHub](https://github.com/jawaherapp/landing-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Jawaher Company. This section pertains to the Privacy Policy of the website and native mobile applications. We would like to inform that our privacy policy is subject to change without intimation and you shall be required to review the same regularly.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The protection and security of your personal information is one of Jawaher Company's top priorities. This Privacy Policy discloses Jawaher Company's practice with respect to the information collected from the users of the Website or native mobile applications. Luxury Online Retail India Private Limited is authorized to use the website - Jawaher Company and native mobile applications for commercial purposes by virtue of a Platform License Agreement. By using the Website or native mobile applications you agree to accept the terms of this Privacy Policy as well as the Website and native mobile application’s Terms of Use. By accessing or using the Website and native mobile applications you expressly consent to our use and disclosure of your personal information in any manner described in this Privacy Policy. This Privacy Policy extends to both, users who visit the Website or native mobile applications but do not transact business on the Website or native mobile applications as well as users who are registered on the Website or native mobile applications. "Personal Information" refers to any information that identifies or can be used to identify, contact or locate the person, to whom such information pertains including, but not limited to, name, address, phone number, fax number, email address, financial profiles, identification number, credit card information etc.
 
-### Markdown
+PLEASE READ THE FOLLOWING TERMS OF OUR PRIVACY POLICY
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### PERSONAL INFORMATION COLLECTED
 
-```markdown
-Syntax highlighted code block
+By accepting this privacy policy, you authorize Jawaher Company to collect, store and use any information that you provide on our Website or native mobile applications. The information collected by us are
 
-# Header 1
-## Header 2
-### Header 3
+All information entered by you on our website and native mobile applications such as your name, address, contact number, email ID , chat history , and such other information sent by you via emails to our email ID.
 
-- Bulleted
-- List
+Information collected by means of cookies that are installed on your hard drive.
 
-1. Numbered
-2. List
+Information collected by means of cookies that are installed on your hard drive. Information such as the IP Address of your computer, the server from which you are accessing our website and native mobile applications, details of web browser and operating system used to access our website or native mobile applications, date, time and place of accessing of our website and native mobile applications etc.,
 
-**Bold** and _Italic_ and `Code` text
+##### **COOKIES**
 
-[Link](url) and ![Image](src)
-```
+Cookies are small pieces of information saved by your browser onto your computer. Cookies are used to record various aspects of your visit and assist Jawaher Company to provide you with uninterrupted service. Jawaher Company does not use cookies to save Personal Information for outside uses.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We have implemented Google Analytics features based on Display Advertising ( Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting). Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings.
 
-### Jekyll Themes
+We, along with third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jawaherapp/landing-page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+No use or Services available on the Website and native mobile applications are directed towards children. Jawaher Company does not knowingly collect Personal Information from children or sell of its products to children.
 
-### Support or Contact
+##### **USE OF INFORMATION COLLECTED**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+CartLane.com owns all the information collected via the Website or applications installed on the website or native mobile applications. As applicable, the information collected by Jawaher Company shall be used to contact you about the Website or native mobile applications and related news and Services available on the Website or native mobile applications; to monitor and improve the Website or native mobile applications; calculate the number of visitors to the Website or native mobile applications and to know the geographical locations of the visitors; update you on all the special offers available on the Website or native mobile applications and provide you with a better shopping experience. This includes sending emails intimating the various offers on the website or native mobile applications. You may at any time choose to unsubscribe from such email. Some of your information may be shared with and Used by third parties who shall need to have access to Information, such as courier companies, credit card processing companies, vendors etc. to enable them and Jawaher Company perform their duties and fulfill your order requirements. Jawaher Company does not allow any unauthorized persons or organization to use any information that Jawaher Company may collect from you through the Website and native mobile applications. However, Jawaher Company and our native mobile applications are not responsible for any information collected or shared or used by any other third party website or mobile applications due to your browser settings.
+
+Jawaher Company, reserves the right to share any of your personal information to comply with the orders of subpoenas, court orders or other legal process. Your Personal Information may be disclosed pursuant to such subpoenas, court order or legal process, which shall be without notice to you.
+
+Jawaher Company may share collective information such as demographics and Website or mobile application usage statistics with our sponsors, advertisers or other third parties (such third parties do not include Jawaher Company's marketing partners and network providers). When this type of information is shared, such parties do not have access to your Personal Information. When you contact Jawaher Company through any means such as chat/ email, Jawaher Company reserves the right to include your email ID for marketing communications. You can unsubscribe from such communications anytime you wish to do so.
+
+The Website and native mobile applications may contain links which may lead you to other Websites or other mobile applications. Please note that once you leave our Website or native mobile applications you will be subjected to the Privacy Policy of the other website, mobile applications and this Privacy Policy will no longer apply.
+
+BY USING THE WEBSITE OR NATIVE MOBILE APPLICATIONS, YOU SIGNIFY YOUR AGREEMENT TO THE TERMS OF THIS PRIVACY POLICY, Jawaher Company RESERVES THE RIGHT, IN OUR SOLE DISCRETION, TO CHANGE, MODIFY, ADD OR DELETE PORTIONS OF THE TERMS OF THIS PRIVACY POLICY AT ANY TIME.
+
+If you have any questions about this Privacy Policy, please feel free to [Contact Us] through our Website or native mobile applications or write to us (See contact section).
